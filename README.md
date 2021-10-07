@@ -9,3 +9,4 @@ A beginner Repo Containing Node js Practice and Projects.
 * [To do App](https://github.com/jaypatel31/Nodejs-Example/tree/master/to-do-app) By [jaypatel31](https://github.com/jaypatel31)
 * [Restaurant Reviews](https://github.com/jaypatel31/Nodejs-Example/tree/master/restaurant-reviews) By [jaypatel31](https://github.com/jaypatel31)
 * [Movie Info](https://github.com/jaypatel31/Nodejs-Example/tree/master/movie-info) By [Gopi Vaibhav](https://github.com/gopivaibhav)
+* [Discord Bot](https://github.com/gohil-jay/Nodejs-Example/tree/master/discord-bot) By [Jay Gohil](https://jay-gohil.me/)
